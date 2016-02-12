@@ -6,7 +6,7 @@
             android:title="Push"
             android:summary="Message Notification"
             android:key="push"/>
-        <SwitchPreference
+        <SwitchPreferenceCompat
             android:title="switch"
             android:key="switch" />
     </PreferenceCategory>
